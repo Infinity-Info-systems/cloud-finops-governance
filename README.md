@@ -19,6 +19,14 @@ This repository helps teams build a repeatable FinOps operating model for:
 - tagging and allocation controls
 - unit economics tracking
 
+## How To Use This Repo
+
+1. Read the framework overview and operating model.
+2. Review the review cycle and rightsizing strategy.
+3. Use the cost models to define governance and decision rules.
+4. Use the dashboards and templates to run recurring reviews.
+5. Capture evidence and impact metrics so improvement can be measured.
+
 ## Core Content
 
 - [Framework Overview](docs/framework-overview.md)
@@ -52,11 +60,3 @@ This repository helps teams build a repeatable FinOps operating model for:
 - [Bibliography](references/bibliography.md)
 - [Research Links](publications/research-links.md)
 - [Impact Metrics](evidence/impact-metrics.md)
-
-## Start Here
-
-1. Read the framework overview.
-2. Review the FinOps review cycle.
-3. Review the FinOps operating model and cost governance approach.
-4. Use the dashboards and templates to operationalize the model.
-5. Expand evidence, metrics, and executive reporting next.

@@ -1,79 +1,39 @@
 # FinOps Review Cycle
 
-This review cycle gives teams a practical way to govern cloud cost through a repeatable operating rhythm.
-
 ## Purpose
 
-Use this cycle to connect cost visibility, rightsizing, reservations, tagging governance, and executive reporting into one disciplined process.
+The review cycle creates a repeatable rhythm for assessing cost health, identifying optimization opportunities, and confirming savings.
 
-## Review Areas
+## Cycle Stages
 
-### 1. Cost Visibility
+### 1. Prepare
 
-- total cloud spend
-- spend by cloud provider
-- spend by environment
-- spend by application or business unit
+- gather cost reports
+- gather budget and forecast data
+- identify outliers and anomalies
 
-### 2. Rightsizing
+### 2. Review
 
-- oversized compute instances
-- idle or underused services
-- storage optimization opportunities
-- network cost anomalies
+- examine top spend drivers
+- review allocation and tagging quality
+- confirm rightsizing opportunities
+- review commitment coverage
 
-### 3. Reservation Strategy
+### 3. Act
 
-- reserved instance coverage
-- commitment utilization
-- renewal pipeline
-- savings realized versus target
+- assign optimization actions
+- set owners and due dates
+- prioritize quick wins and structural changes
 
-### 4. Tagging Governance
+### 4. Validate
 
-- tag coverage percentage
-- untagged spend
-- invalid tag values
-- allocation gaps
+- check realized savings
+- verify no service degradation
+- update leadership views
 
-### 5. Executive Reporting
+## Review Outputs
 
-- month-over-month spend trend
-- forecast versus budget
-- savings action status
-- risk and exception summary
-
-## Operating Rhythm
-
-Recommended cadence:
-
-1. Weekly cost review for active optimization actions
-2. Monthly FinOps governance review
-3. Quarterly executive cost summary
-4. Semiannual strategy reset for reservations and commitments
-
-## Example Review Output
-
-| Area | Target | Current | Status |
-| --- | --- | --- | --- |
-| Cost Visibility | 100% view of major spend drivers | 92% | Needs Action |
-| Rightsizing | > 80% of identified actions closed | 74% | At Risk |
-| Reservation Strategy | > 85% coverage on steady workloads | 81% | Needs Action |
-| Tagging Governance | > 95% valid tag coverage | 88% | At Risk |
-| Executive Reporting | Monthly summary issued on time | Yes | Healthy |
-
-## Recommended Actions
-
-- prioritize the top spend drivers first
-- close rightsizing actions before adding new commitments
-- correct tag coverage gaps before refining forecasts
-- report exceptions with owner and due date
-
-## Related Artifacts
-
-- [Cloud Cost Review Template](../templates/cloud-cost-review-template.md)
-- [Executive Cost Report](../templates/executive-cost-report.md)
-- [FinOps Maturity Assessment](../templates/finops-maturity-assessment.md)
-- [Rightsizing Assessment Template](../templates/rightsizing-assessment-template.md)
-- [Cloud Cost Dashboard](../dashboards/cloud-cost-dashboard.md)
-- [FinOps KPI Dashboard](../dashboards/finops-kpi-dashboard.md)
+- cost trends
+- actions and owners
+- savings results
+- open risks
