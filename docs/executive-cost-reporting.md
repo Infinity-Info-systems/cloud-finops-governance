@@ -18,3 +18,10 @@ Executive cost reporting turns spend data into a decision-ready view of cost tre
 - connect findings to business impact
 - show trend and not just snapshot
 - separate facts, assumptions, and recommendations
+
+## Executive Questions
+
+- Is spend trending in the right direction?
+- Where is the biggest variance?
+- What has been fixed?
+- What needs leadership action?

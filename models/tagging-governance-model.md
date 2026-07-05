@@ -19,3 +19,8 @@ Tagging governance makes cost allocation and accountability possible.
 - environment
 - cost center
 - platform
+
+## Use
+
+- make allocation visible
+- tie cost to accountability

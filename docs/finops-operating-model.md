@@ -33,3 +33,9 @@ The operating model defines how finance, engineering, and platform teams work to
 - fewer unexplained variances
 - visible optimization backlog
 - clear ownership for high-cost areas
+
+## Operating Notes
+
+- finance and engineering should review together
+- cost reviews should always produce an action list
+- savings should be revalidated after the change lands

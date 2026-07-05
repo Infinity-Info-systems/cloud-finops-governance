@@ -17,3 +17,8 @@ The unit economics model connects cloud spend to business outcomes so leaders ca
 - use trending data instead of a single month
 - compare like for like
 - avoid using unit economics without context
+
+## Use
+
+- show business value alongside cost
+- support investment decisions

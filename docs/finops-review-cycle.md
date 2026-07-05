@@ -11,6 +11,7 @@ The review cycle creates a repeatable rhythm for assessing cost health, identify
 - gather cost reports
 - gather budget and forecast data
 - identify outliers and anomalies
+- confirm the review owner and the date range
 
 ### 2. Review
 
@@ -30,6 +31,7 @@ The review cycle creates a repeatable rhythm for assessing cost health, identify
 - check realized savings
 - verify no service degradation
 - update leadership views
+- close or re-open actions based on evidence
 
 ## Review Outputs
 
@@ -37,3 +39,9 @@ The review cycle creates a repeatable rhythm for assessing cost health, identify
 - actions and owners
 - savings results
 - open risks
+
+## Recommended Practices
+
+- keep reviews small and regular
+- make savings claims evidence-based
+- treat missing allocation as an operating issue, not just a reporting issue

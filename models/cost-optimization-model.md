@@ -20,3 +20,8 @@ This model groups optimization opportunities into repeatable categories that can
 - risk to service
 - speed to value
 - dependency on other changes
+
+## Use
+
+- rank opportunities by value and risk
+- track actions to verified savings

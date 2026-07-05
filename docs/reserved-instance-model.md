@@ -25,3 +25,8 @@ This model helps decide when commitments such as reserved instances or savings p
 - utilization reports
 - forecast assumptions
 - savings validation notes
+
+## Operating Notes
+
+- compare savings against opportunity cost
+- review commitment coverage in the monthly cost review

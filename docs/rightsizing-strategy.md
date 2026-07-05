@@ -25,3 +25,9 @@ Rightsizing improves cost efficiency by aligning provisioned resources with real
 - instance inventory
 - change history
 - post-change performance results
+
+## Operating Notes
+
+- use a change window for higher-risk workloads
+- validate with the service owner before cutting capacity
+- keep an exception path for performance-sensitive services
