@@ -19,6 +19,7 @@ The review cycle creates a repeatable rhythm for assessing cost health, identify
 - review allocation and tagging quality
 - confirm rightsizing opportunities
 - review commitment coverage
+- review forecast variance against actuals
 
 ### 3. Act
 
@@ -45,3 +46,8 @@ The review cycle creates a repeatable rhythm for assessing cost health, identify
 - keep reviews small and regular
 - make savings claims evidence-based
 - treat missing allocation as an operating issue, not just a reporting issue
+- close the loop on every action item
+
+## Review Outcome
+
+The review cycle should create a steady path from insight to action to validated savings.

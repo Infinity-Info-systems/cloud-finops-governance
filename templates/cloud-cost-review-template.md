@@ -18,9 +18,14 @@
 - rightsizing opportunities
 - commitment opportunities
 - anomalies
+- owner for each finding
 
 ## Actions
 
 | Action | Owner | Due Date | Status |
 | --- | --- | --- | --- |
 |  |  |  |  |
+
+## Review Rule
+
+Every finding should end with an owner, a decision, or a follow-up action.

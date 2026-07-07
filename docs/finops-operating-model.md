@@ -39,3 +39,8 @@ The operating model defines how finance, engineering, and platform teams work to
 - finance and engineering should review together
 - cost reviews should always produce an action list
 - savings should be revalidated after the change lands
+- every major spend driver should have an owner
+
+## Operating Outcome
+
+The operating model should make it easy for finance and engineering to act on the same information set.

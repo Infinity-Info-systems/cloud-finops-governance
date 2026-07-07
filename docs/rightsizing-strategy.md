@@ -11,6 +11,7 @@ Rightsizing improves cost efficiency by aligning provisioned resources with real
 - test smaller instance or capacity options
 - validate performance after changes
 - track savings and side effects
+- prioritize workloads with the clearest slack first
 
 ## Review Questions
 
@@ -31,3 +32,7 @@ Rightsizing improves cost efficiency by aligning provisioned resources with real
 - use a change window for higher-risk workloads
 - validate with the service owner before cutting capacity
 - keep an exception path for performance-sensitive services
+
+## Strategy Rule
+
+Rightsizing should reduce waste without introducing hidden service risk.

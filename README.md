@@ -5,6 +5,7 @@
 This repository contains the governance and operating model for cloud financial management across multi-cloud environments.
 
 It focuses on cost visibility, rightsizing, tagging governance, reserved instance strategy, and executive cost reporting.
+It is intended to help teams manage cloud spend with the same discipline they apply to service and architecture governance.
 
 ## Why It Matters
 
@@ -18,6 +19,17 @@ This repository helps teams build a repeatable FinOps operating model for:
 - rightsizing and reservation strategy
 - tagging and allocation controls
 - unit economics tracking
+- savings validation
+- decision accountability
+- recurring review cadence
+
+## Content Model
+
+This repository works best when the content is grouped into three layers:
+
+- governance and operating guidance
+- models and dashboards
+- templates and reference notes
 
 ## How To Use This Repo
 
@@ -26,6 +38,7 @@ This repository helps teams build a repeatable FinOps operating model for:
 3. Use the cost models to define governance and decision rules.
 4. Use the dashboards and templates to run recurring reviews.
 5. Capture evidence and impact metrics so improvement can be measured.
+6. Keep terminology consistent across teams and cloud providers.
 
 ## Core Content
 
@@ -60,3 +73,7 @@ This repository helps teams build a repeatable FinOps operating model for:
 - [Bibliography](references/bibliography.md)
 - [Research Links](publications/research-links.md)
 - [Impact Metrics](evidence/impact-metrics.md)
+
+## Operating Principle
+
+FinOps should make spend visible, accountable, and actionable.

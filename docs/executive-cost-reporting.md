@@ -18,6 +18,11 @@ Executive cost reporting turns spend data into a decision-ready view of cost tre
 - connect findings to business impact
 - show trend and not just snapshot
 - separate facts, assumptions, and recommendations
+- call out decisions required by leadership
+
+## Reporting Outcome
+
+Executive reporting should make the financial situation and next action obvious at a glance.
 
 ## Executive Questions
 

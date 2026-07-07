@@ -18,3 +18,7 @@
 - owner
 - estimated savings
 - validation method
+
+## Assessment Rule
+
+Rightsizing recommendations should be tied to measurable savings and an explicit validation method.

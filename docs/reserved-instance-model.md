@@ -18,6 +18,7 @@ This model helps decide when commitments such as reserved instances or savings p
 - avoid overcommitting unstable workloads
 - review utilization regularly
 - measure savings against actual consumption
+- keep commitments aligned to stable workloads
 
 ## Evidence To Collect
 
@@ -30,3 +31,7 @@ This model helps decide when commitments such as reserved instances or savings p
 
 - compare savings against opportunity cost
 - review commitment coverage in the monthly cost review
+
+## Use
+
+Use this model to decide when commitments are a good fit and when they add unnecessary risk.

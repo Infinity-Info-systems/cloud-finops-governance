@@ -17,3 +17,7 @@ Describe the cost position, trend, and leadership decisions needed.
 - owner
 - due date
 - dependency
+
+## Report Rule
+
+Keep the report short, specific, and tied to the leadership decision that needs to be made.

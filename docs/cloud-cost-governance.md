@@ -11,6 +11,7 @@ Cloud cost governance defines how spending is owned, reviewed, explained, and im
 - review forecast variance regularly
 - require action plans for material overspend
 - track savings claims after implementation
+- review unallocated spend as a governance issue
 
 ## Governance Questions
 
@@ -26,3 +27,7 @@ Cloud cost governance defines how spending is owned, reviewed, explained, and im
 - tagged resource samples
 - exception approvals
 - forecast reports
+
+## Outcome
+
+Cloud cost governance should make spending accountable, explainable, and easy to review with leadership.

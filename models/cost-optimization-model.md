@@ -25,3 +25,8 @@ This model groups optimization opportunities into repeatable categories that can
 
 - rank opportunities by value and risk
 - track actions to verified savings
+- avoid treating theoretical savings as realized savings
+
+## Model Rule
+
+Optimization should be judged on verified results, not just the size of the opportunity list.

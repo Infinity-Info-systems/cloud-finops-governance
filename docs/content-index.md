@@ -3,6 +3,7 @@
 ## Purpose
 
 This index organizes the repo into a practical front door for cloud cost governance and FinOps operating content.
+Use it to get from the overall FinOps model to the exact review artifact you need.
 
 ## Entry Points
 
@@ -35,6 +36,17 @@ This index organizes the repo into a practical front door for cloud cost governa
 - [Research Links](../publications/research-links.md)
 - [Impact Metrics](../evidence/impact-metrics.md)
 
+## Reading Order
+
+1. Framework overview
+2. Cloud cost governance
+3. FinOps review cycle
+4. FinOps operating model
+5. Rightsizing strategy
+6. Reserved instance model
+7. Executive cost reporting
+
 ## Shared Direction
 
 Use the same section structure as `MCGR-Framework` and the other core repos so the ecosystem stays coherent.
+Keep each page concise enough for review and explicit enough to support action.

@@ -10,6 +10,7 @@ Tagging governance makes cost allocation and accountability possible.
 - define exception handling
 - validate tag coverage regularly
 - report untagged spend
+- treat missing tags as an operational issue, not just a reporting issue
 
 ## Example Tags
 
@@ -24,3 +25,7 @@ Tagging governance makes cost allocation and accountability possible.
 
 - make allocation visible
 - tie cost to accountability
+
+## Use
+
+Use this model to keep allocation, accountability, and reporting aligned across teams.

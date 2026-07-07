@@ -22,3 +22,8 @@ The unit economics model connects cloud spend to business outcomes so leaders ca
 
 - show business value alongside cost
 - support investment decisions
+- compare trends rather than single points
+
+## Outcome
+
+Unit economics should help leaders understand cost in the context of the business outcomes it supports.
