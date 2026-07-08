@@ -4,6 +4,7 @@
 
 This index organizes the repo into a practical front door for cloud cost governance and FinOps operating content.
 Use it to get from the overall FinOps model to the exact review artifact you need.
+The order is designed to move from governance framing into the recurring review and operating assets.
 
 ## Entry Points
 
@@ -50,3 +51,4 @@ Use it to get from the overall FinOps model to the exact review artifact you nee
 
 Use the same section structure as `MCGR-Framework` and the other core repos so the ecosystem stays coherent.
 Keep each page concise enough for review and explicit enough to support action.
+If a page does not help set a budget, explain a variance, or guide optimization, move that detail into a more specific artifact.

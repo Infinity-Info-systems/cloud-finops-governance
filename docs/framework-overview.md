@@ -6,6 +6,7 @@ This framework helps organizations govern cloud spending with the same disciplin
 
 It makes cloud costs visible, allocates accountability, and turns optimization opportunities into tracked actions.
 It gives the team a repeatable way to manage spend as an operating issue rather than a monthly surprise.
+The framework is meant to make the cost story visible from the parent MCGR page and related ecosystem pages.
 
 ## What It Covers
 
@@ -34,6 +35,15 @@ It gives the team a repeatable way to manage spend as an operating issue rather 
 - optimization actions are tracked to closure
 - leadership can see spend, trends, and savings without manual effort
 - savings claims are validated after implementation
+
+## How To Read It
+
+Start with the framework overview, then move into the operating model and cost governance pages.
+That sequence keeps the focus on who owns the spend before getting into the optimization details.
+
+## Result
+
+The framework helps teams turn cloud spend into a visible, accountable, and action-oriented operating discipline.
 
 ## Practical Use
 

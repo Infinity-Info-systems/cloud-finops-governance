@@ -12,6 +12,17 @@ The operating model defines how finance, engineering, and platform teams work to
 - application owner
 - executive sponsor
 
+## Operating Flow
+
+```mermaid
+flowchart LR
+  A[Cost Visibility] --> B[Owner Assignment]
+  B --> C[Forecast Review]
+  C --> D[Optimization Backlog]
+  D --> E[Action Approval]
+  E --> F[Savings Validation]
+```
+
 ## Operating Cadence
 
 1. Weekly or biweekly cost review
@@ -41,6 +52,14 @@ The operating model defines how finance, engineering, and platform teams work to
 - savings should be revalidated after the change lands
 - every major spend driver should have an owner
 
+## Use
+
+Use this page to explain how cost decisions move from visibility to action across finance and engineering.
+
 ## Operating Outcome
 
 The operating model should make it easy for finance and engineering to act on the same information set.
+
+## Outcome
+
+A good operating model turns cloud spend into a shared operational responsibility.

@@ -6,6 +6,7 @@ This repository contains the governance and operating model for cloud financial 
 
 It focuses on cost visibility, rightsizing, tagging governance, reserved instance strategy, and executive cost reporting.
 It is intended to help teams manage cloud spend with the same discipline they apply to service and architecture governance.
+The repository should also be easy to reference from the parent MCGR page so the FinOps library is visible as part of the larger ecosystem.
 
 ## Why It Matters
 
@@ -22,6 +23,14 @@ This repository helps teams build a repeatable FinOps operating model for:
 - savings validation
 - decision accountability
 - recurring review cadence
+
+## Where This Fits In The Ecosystem
+
+- [MCGR Framework](../MCGR-Framework/README.md)
+- [MCGR Public Page](../MCGR-Framework/README.md#featured-research-spotlight)
+- [Cloud Governance Assessment Toolkit](../cloud-governance-assessment-toolkit/README.md)
+- [Executive Technology Roadmaps](../executive-technology-roadmaps/README.md)
+- [Cloud Risk and Compliance Controls](../cloud-risk-compliance-controls/README.md)
 
 ## Content Model
 
@@ -77,3 +86,13 @@ This repository works best when the content is grouped into three layers:
 ## Operating Principle
 
 FinOps should make spend visible, accountable, and actionable.
+
+## Quick View
+
+| FinOps Area | What It Governs | Typical Artifact |
+| --- | --- | --- |
+| Visibility | Who is spending and why | Cloud cost dashboard |
+| Allocation | How spend is assigned | Tagging governance model |
+| Optimization | What can be improved | Rightsizing strategy |
+| Commitments | How reservations are managed | Reserved instance model |
+| Accountability | Who owns the action | Executive cost report |
