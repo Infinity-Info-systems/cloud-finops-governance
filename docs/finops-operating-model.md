@@ -63,3 +63,17 @@ The operating model should make it easy for finance and engineering to act on th
 ## Outcome
 
 A good operating model turns cloud spend into a shared operational responsibility.
+
+## Operating Table
+
+| Stage | Owner | Output |
+| --- | --- | --- |
+| Visibility | Cloud cost analyst | Spend and variance view |
+| Ownership | FinOps lead | Named spend owner |
+| Review | Finance and engineering | Forecast reconciliation |
+| Optimization | Platform/application owner | Action backlog |
+| Validation | FinOps lead | Savings confirmation |
+
+## Operating Rule
+
+Every large spend driver should have a named owner, a review cadence, and a measurable action path.

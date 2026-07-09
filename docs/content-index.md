@@ -6,6 +6,17 @@ This index organizes the repo into a practical front door for cloud cost governa
 Use it to get from the overall FinOps model to the exact review artifact you need.
 The order is designed to move from governance framing into the recurring review and operating assets.
 
+## Recommended Reading Path
+
+| Step | Page | Why |
+| --- | --- | --- |
+| 1 | Framework Overview | Understand the FinOps operating model |
+| 2 | Cloud Cost Governance | Review the control view |
+| 3 | FinOps Review Cycle | See the recurring cadence |
+| 4 | FinOps Operating Model | Understand roles and flow |
+| 5 | Rightsizing Strategy | Review optimization decisions |
+| 6 | Executive Cost Reporting | Package leadership output |
+
 ## Entry Points
 
 - [Framework Overview](./framework-overview.md)
@@ -52,3 +63,12 @@ The order is designed to move from governance framing into the recurring review 
 Use the same section structure as `MCGR-Framework` and the other core repos so the ecosystem stays coherent.
 Keep each page concise enough for review and explicit enough to support action.
 If a page does not help set a budget, explain a variance, or guide optimization, move that detail into a more specific artifact.
+
+## Shortcut View
+
+| Need | Best Starting Point |
+| --- | --- |
+| Understand governance | Cloud Cost Governance |
+| Manage recurring review | FinOps Review Cycle |
+| Explain savings | Executive Cost Reporting |
+| Improve efficiency | Rightsizing Strategy |
