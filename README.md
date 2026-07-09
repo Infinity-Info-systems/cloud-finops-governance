@@ -96,3 +96,9 @@ FinOps should make spend visible, accountable, and actionable.
 | Optimization | What can be improved | Rightsizing strategy |
 | Commitments | How reservations are managed | Reserved instance model |
 | Accountability | Who owns the action | Executive cost report |
+
+## Codebase Direction
+
+- use `src/` as the cost governance registry and report layer
+- keep Markdown docs as the operating model and narrative layer
+- use the registry outputs to support dashboards or a future FinOps console
